@@ -9,11 +9,6 @@
       <PhpCSConfiguration standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/dev/yii2-coding-standards/vendor/bin/phpcs" />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="/usr/bin/php" id="a6bb89e7-044c-4a00-b9f7-2ca379d79d99" name="PHP 7" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7">
@@ -426,8 +421,5 @@
         </phpinfo>
       </interpreter>
     </phpInfoCache>
-  </component>
-  <component name="PhpSmartKeysConfiguration">
-    <option name="smartFunctionParametersCompletion" value="true" />
   </component>
 </application>
