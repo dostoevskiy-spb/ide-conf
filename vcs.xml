@@ -14,6 +14,10 @@
           <option name="url" value="http://mms.alkar.net:8009" />
           <option name="userName" value="dostoevskiy-spb" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.smscapital.ru" />
+          <option name="userName" value="dostoevskiy.spb@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev/www" />
